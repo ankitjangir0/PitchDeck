@@ -24,7 +24,7 @@ const Home = () => {
          </div>
 
          <div className='home-desc-txt'>
-                 <p>Artificial Nuances Tactical Infiltretion</p>
+                 <p>Artificial Nuances Tactical Infiltration</p>
          </div>
 
          <div className='home-date-div'>
