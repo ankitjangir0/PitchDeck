@@ -100,7 +100,7 @@ export const BM = () => {
 
                          <div className="bm-main-right-div">
                               
-                              <img className="bm-right-img-1" src="../../../../public/images/anti0.png" alt=""/>
+                              <img className="bm-right-img-1" src="/images/anti0.png" alt=""/>
                               {/* <img className="bm-right-img-2" src="https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/bm-right-img-2.png" alt=""/>
                               <img className="bm-right-img-3" src="https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/bm-right-img-3.png" alt=""/>
                               <img className="bm-right-img-4" src="https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/bm-right-img-4.png" alt=""/>
@@ -237,7 +237,7 @@ export const BM = () => {
 
                          <div className="bm-main-right-div">
                               
-                              <img className="bm-right-img-1" src="../../../../public/images/antiq.png" alt=""/>
+                              <img className="bm-right-img-1" src="/images/antiq.png" alt=""/>
                               {/* <img className="bm-right-img-2" src="https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/bm-right-img-2.png" alt=""/>
                               <img className="bm-right-img-3" src="https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/bm-right-img-3.png" alt=""/>
                               <img className="bm-right-img-4" src="https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/bm-right-img-4.png" alt=""/>

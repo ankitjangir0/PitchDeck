@@ -1,5 +1,5 @@
 import  {useState} from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "../../../css/pages/ThankYou/TY.scss";
 
 export const TY = () => {
@@ -28,7 +28,7 @@ export const TY = () => {
         <div className="TY">
 
             <div className="ty-heading"><p>Contact Us</p></div>
-            <img className="ty-image-1" src="../../../../public/images/logo.jpg" alt=""/>
+            <img className="ty-image-1" src="/images/logo.jpg" alt=""/>
 
             <div className="ty-details-div">
                  
@@ -87,7 +87,7 @@ export const TY = () => {
 
             <img className="ty-bar" src="../images/ty-new-img-2.png" alt=""/>
             <div className="ty-circle-bar">
-                <img className="ty-circle-bar-img" src="../../../../public/images/Screenshot 2024-12-07 125750.png" alt=""/>
+                <img className="ty-circle-bar-img" src="/images/Screenshot 2024-12-07 125750.png" alt=""/>
             </div>
             <div className="ty-bar-details">
                 <p style={{position:'absolute',top:'5%',color:'white'}}>Tanishq Sharma</p>

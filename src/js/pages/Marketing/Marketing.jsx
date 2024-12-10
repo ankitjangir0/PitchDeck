@@ -7,8 +7,8 @@ const Marketing = () => {
 
 
   const contentArray = [
-    { id: 1, name: 'Billboard Marketing', vid: '../../../../public/images/6153453-uhd_4096_2160_25fps.mp4', img1: '../../../../public/images/Gemini_Generated_Image_6j75bt6j75bt6j75.jpg', img2: '../../../../public/images/Gemini_Generated_Image_z1rpo8z1rpo8z1rp.jpg', img3: '../../../../public/images/1_jVdS8oa_0wkvZvIpIqL-rA.jpg' },
-    { id: 2, name: 'Digital Marketing',   vid: '../../../../public/images/18069863-uhd_2160_3840_24fps.mp4', img1: '../../../../public/images/unnamed.png', img2: '../../../../public/images/value.png', img3: '../../../../public/images/Gemini_Generated_Image_v4mbvqv4mbvqv4mb.jpg' },
+    { id: 1, name: 'Billboard Marketing', vid: '/images/6153453-uhd_4096_2160_25fps.mp4', img1: '/images/Gemini_Generated_Image_6j75bt6j75bt6j75.jpg', img2: '/images/Gemini_Generated_Image_z1rpo8z1rpo8z1rp.jpg', img3: '/images/1_jVdS8oa_0wkvZvIpIqL-rA.jpg' },
+    { id: 2, name: 'Digital Marketing',   vid: '/images/18069863-uhd_2160_3840_24fps.mp4', img1: '/images/unnamed.png', img2: '/images/value.png', img3: '/images/Gemini_Generated_Image_v4mbvqv4mbvqv4mb.jpg' },
 //     { id: 3, name: 'Video Marketing',     vid: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/videos/marketing-vid-1.mp4', img1: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/mar-screen-1-img-1.png', img2: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/mar-screen-1-img-2.png', img3: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/mar-screen-1-img-3.png' },
 //     { id: 4, name: 'NewsPaper Marketing', vid: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/videos/marketing-vid-2.mp4', img1: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/mar-screen-2-img-1.png', img2: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/mar-screen-2-img-2.png', img3: 'https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/mar-screen-2-img-2.png' },
   

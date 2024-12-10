@@ -19,16 +19,16 @@ const Problem = () => {
          <div className='prob-image-div'>
               <img className='prob-img-1' 
                    style={{transform:prob === 2 || prob === 3 ? 'translateX(-150%)':''}}
-                   src='../../../../public/images/antiq.png' alt=''/>
+                   src='/images/antiq.png' alt=''/>
               <img className='prob-img-2'  
                    style={{opacity:prob === 2 && '1'}}
-                   src='../../../../public/images/anti0.png' alt=''/>
+                   src='/images/anti0.png' alt=''/>
               <img className='prob-img-3'  
                    style={{transform:prob === 3 && 'translateX(0)'}}
-                   src='../../../../public/images/robo.png' alt=''/>
+                   src='/images/robo.png' alt=''/>
          </div>
 
-         <img className='prob-quotes' src='../../../../public/images/is.png' alt='' />
+         <img className='prob-quotes' src='/images/is.png' alt='' />
 
           <div className='prob-content-div'
                style={{transform:prob === 1 ? 'translateX(0%)scale(1)': prob === 2 ? "translateX(0%)scale(0.5)" :'translateX(100%)scale(0.8)',

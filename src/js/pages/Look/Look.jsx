@@ -24,7 +24,7 @@ const Look = () => {
   return (
     <div className='Look'>
 
-      <img className='look-main-img' src='../../../../public/images/unnamed.png' alt='' />
+      <img className='look-main-img' src='/images/unnamed.png' alt='' />
       <img className='look-left-button' src='../images/look-left-bttn.png' alt=''
            onClick={handleLookLeftClick}
        />
@@ -44,7 +44,7 @@ const Look = () => {
           }}
         >
 
-          <img className='look-content-div-img' src='../../../../public/images/chiti2.0.png' alt='' />
+          <img className='look-content-div-img' src='/images/chiti2.0.png' alt='' />
           <div className='look-content-txt-div'>
             <p className='look-content-para-1'>Our Mission</p>
             <p className='look-content-para-2'
@@ -64,7 +64,7 @@ const Look = () => {
           }}
         >
 
-          <img className='look-content-div-img' src='../../../../public/images/value.png' alt='' />
+          <img className='look-content-div-img' src='/images/value.png' alt='' />
           <div className='look-content-txt-div'>
             <p className='look-content-para-1'>Our Values</p>
             <p className='look-content-para-2'>Our values introducing old school entertanmemt to the mordern world . Giving users an experince that has been missin through out generations.</p>
@@ -82,7 +82,7 @@ const Look = () => {
           }}
         >
 
-          <img className='look-content-div-img' src='../../../../public/images/Gemini_Generated_Image_g28hdtg28hdtg28h.jpg' alt='' />
+          <img className='look-content-div-img' src='/images/Gemini_Generated_Image_g28hdtg28hdtg28h.jpg' alt='' />
           <div className='look-content-txt-div'>
             <p className='look-content-para-1'>Our Motto</p>
             <p className='look-content-para-2'

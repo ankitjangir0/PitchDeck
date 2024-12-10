@@ -31,7 +31,7 @@ function Team() {
                                 transition: teamData === 1 && 'height 1.5s ease-out'
                         }}
                    >
-                        <img className='team-c-person-img' src='../../../../public/images/Screenshot 2024-12-07 125750.png' alt=''/>
+                        <img className='team-c-person-img' src='/images/Screenshot 2024-12-07 125750.png' alt=''/>
                         <img className='team-plus-logo'    src='https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/team-plus-logo.png' alt=''/>
                         
                    </div>
@@ -83,7 +83,7 @@ function Team() {
                   <div className='team-c-person-img-container' 
                        style={{height : teamData === 2 ? '60%':'',
                                transition: teamData === 2 && 'height 1.5s ease-out'}}>
-                      <img className='team-c-person-img' src='../../../../public/images/971503de-f4da-4314-869a-3d5c60e09563.jpg' alt=''/>
+                      <img className='team-c-person-img' src='/images/971503de-f4da-4314-869a-3d5c60e09563.jpg' alt=''/>
                         <img className='team-plus-logo' src=' https://assets1-bkcuadcwfqfkb5d3.z03.azurefd.net/template/fashion-event/images/team-plus-logo.png' alt=''/>
                   </div>
 

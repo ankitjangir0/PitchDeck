@@ -37,7 +37,7 @@ const Ask = () => {
                    style={{transform:askData ? 'translate(0)':'translate(-60%,225%)'}}  
                    />
 
-              <img className='ask-right-center-img' src='../../../../public/images/unnamed.png' alt=''
+              <img className='ask-right-center-img' src='/images/unnamed.png' alt=''
                    style={{opacity:askData ? '1':'0'}}
                />
 
