@@ -108,7 +108,7 @@ function Team() {
                                 transition: teamData === 2 && 'transform 1.5s ease-out',
                                 opacity: teamData === 2 ? 0 : ''
                                 }}>
-                      <p>Cheif Manager</p>
+                      <p>Chief Manager</p>
                   </div>
 
                   <div className='team-c-person-details'
